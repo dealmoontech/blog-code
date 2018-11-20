@@ -4,7 +4,7 @@
 ###  clone代码
 git clone https://github.com/DealmoonFrontend/blog-code.git [本地项目名]
 ###  安装hexo脚手架
-cd [本地项目名]
+cd [本地项目名] <br />
 npm install -g hexo-cli <br />
 PS：可能需要加 sudo npm install -g hexo-cli 获得相关权限
 ###  安装项目依赖
