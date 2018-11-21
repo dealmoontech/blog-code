@@ -20,7 +20,11 @@ PS：找到你新建的文章，文章文件名为‘博客title.md’，支持[
 hexo clean // 清空 public 目录 <br />
 hexo g && hexo d // 生成静态文件和部署 <br />
 PS：部署的过程需要你输入用户名和密码。
-
+### 将blog-code代码提交到远程（方便多人开发）
+cd blog-code <br />
+git add -A <br />
+git commit -m 'new blog title' <br />
+git push ... <br />
 
 ##  ~~PR方式（暂不使用该方式）~~
 ###  ~~fork博客项目代码到你的github账户~~
