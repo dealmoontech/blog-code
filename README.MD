@@ -23,7 +23,7 @@ PS：部署的过程需要你输入用户名和密码。
 ### 将blog-code代码提交到远程（方便多人开发）
 cd blog-code <br />
 git add -A <br />
-git commit -m 'new blog title' <br />
+git commit -m 'feat-blogTitle' <br />
 git push ... <br />
 
 ##  ~~PR方式（暂不使用该方式）~~
