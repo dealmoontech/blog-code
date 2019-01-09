@@ -91,11 +91,11 @@ changyan_conf: false
 disqus: false
 
 #5、Gitment
-gitment_owner: false      #你的 GitHub ID
-gitment_repo: ''          #存储评论的 repo
+gitment_owner: dealmoontech      #你的 GitHub ID
+gitment_repo: 'https://dealmoontech.github.io/'          #存储评论的 repo
 gitment_oauth:
-  client_id: ''           #client ID
-  client_secret: ''       #client secret
+  client_id: '61003db0045ba6ffd81b'           #client ID
+  client_secret: '122468a349e4bd16cefb9763e198d28aa4651873'       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
@@ -125,3 +125,7 @@ friends:
   微信公众号系列: https://cn.dealmoon.com/wechat
 
 aboutme: 我们是Dealmoon技术团队
+
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+livere_uid: MTAyMC8zNTk4Mi8xMjUxOA==
