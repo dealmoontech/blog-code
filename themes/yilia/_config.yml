@@ -80,8 +80,9 @@ share_jia: true
 #1、多说
 duoshuo: false
 
-#来比力
-livere: xMi8xLzM=
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+# livere_uid: MTAyMC8zNTk4Mi8xMjUxOA==
 
 #2、网易云跟帖
 wangyiyun: false
@@ -94,11 +95,11 @@ changyan_conf: false
 disqus: false
 
 #5、Gitment
-gitment_owner:      #你的 GitHub ID
-gitment_repo: ''          #存储评论的 repo
+gitment_owner: dealmoontech     #你的 GitHub ID
+gitment_repo: 'dealmoontech.github.io'          #存储评论的 repo
 gitment_oauth:
-  client_id: ''           #client ID
-  client_secret: ''       #client secret
+  client_id: 'f61b8af63bfb6293f2e1'           #client ID
+  client_secret: 'c8790212fb4af2e29ecccbb9f1bb3c29629069a2'       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
